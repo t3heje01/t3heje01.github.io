@@ -39,4 +39,10 @@ Embedded HTML table:
     </tbody>
 </table>
 
-### some WASM test below:
+### Qt Widgets WASM program below:
+
+This is a Qt Widgets app running as WebAssembly!
+
+<div>
+    <iframe src="./WASM/build/program.html" width="100%" height="500px"></iframe>
+</div>
