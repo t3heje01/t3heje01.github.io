@@ -27,13 +27,20 @@ Embedded HTML table:
     <tbody>
         <tr>
             <td align="center" valign="top" width="20%">
-                <a href="https://github.com/mintusmaximus">
+                <a href="https://github.com/t3heje01">
                 <img src="https://avatars.githubusercontent.com/u/202667105?v=4" width="100px;" alt="t3heje01"/>
                 <br />
                 <sub>
-                <b>Link to my main profile</b>
+                <b>Link to this profile</b>
                 </sub></a><br />
-                <a href="https://github.com/t3heje01/" title="Title of link">Link to my second profile</a>
+            </td>
+                <td align="center" valign="top" width="20%">
+                <a href="https://github.com/mintusmaximus">
+                <img src="https://avatars.githubusercontent.com/u/156218528?v=4" width="100px;" alt="mintusmaximus"/>
+                <br />
+                <sub>
+                <b>Link to my main github profile</b>
+                </sub></a><br />
             </td>
         </tr>
     </tbody>
